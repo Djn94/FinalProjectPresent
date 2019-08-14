@@ -10,4 +10,4 @@ The store features necklaces, bracelets, and earrings, all with descriptions, pr
 
 Stretch goals include a subscription feature through Stripe where users will be allowed to subscribe to random monthly jewelry.
 
-![img](https://ibb.co/1f0vd2v)
+![img](https://i.ibb.co/27FnsKn/screenone.png)
