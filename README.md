@@ -9,3 +9,5 @@ The Stripe API is utilized to process payments safely, as well as to create the 
 The store features necklaces, bracelets, and earrings, all with descriptions, prices, and thumbnails of each product.
 
 Stretch goals include a subscription feature through Stripe where users will be allowed to subscribe to random monthly jewelry.
+
+![img](https://ibb.co/1f0vd2v)
